@@ -1,6 +1,6 @@
 'use strict';
 
-var pluginName = 'bsAlert';
+var pluginName = '';
 
 var publicAPI = {
 

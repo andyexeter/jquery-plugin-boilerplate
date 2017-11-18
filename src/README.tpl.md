@@ -23,14 +23,14 @@
 ```
 
 #### Package Managers
-Install via NPM:
+Install via yarn:
 ```sh
-$ npm install <%= pkg.name %> --save
+$ yarn add <%= pkg.name %>
 ```
 
-Install via Bower:
+Install via NPM:
 ```sh
-$ bower install <%= bwr.name %> --save
+$ npm install <%= bwr.name %> --save
 ```
 
 ## Usage
